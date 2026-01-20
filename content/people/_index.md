@@ -7,8 +7,8 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 
-title = "Posts"
-subtitle = "I write about ...."
+title = "Members of the Group"
+subtitle = "Members of the group"
 
 math = false
 mermaid = false

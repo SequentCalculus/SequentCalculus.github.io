@@ -16,22 +16,3 @@ copy = false
 comment = false
 reaction = false
 +++
-
-# Core Team
-
-## Jonathan Immanuel Brachthäuser
-## Marius Müller
-## Philipp Schuster
-## Marco Tzschentke
-## David Binder
-## Tim Süberkrüb
-## Klaus Ostermann
-
-# Alumni
-
-## Ingo Skupin
-
-# Named Collaborators
-
-## Paul Downen
-## Thomas Piecha

@@ -42,11 +42,13 @@ anchors = "on"
 [extra]
 
 sections = [
-  { name = "posts", path = "/posts", is_external = false },
+  { name = "news", path = "/news", is_external = false },
   { name = "people", path = "/people", is_external = false },
+  { name = "talks", path = "/talks", is_external = false },
+  { name = "publications", path = "/publications", is_external = false },
   # { name = "github", path = "https://github.com/<your-username>", is_external = true },
 ]
-blog_section_path = "/posts"
+blog_section_path = "/news"
 
 back_link_text = "Back" # Text of the back button
 force_theme = false # false | "light" | "dark"
